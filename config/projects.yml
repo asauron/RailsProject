@@ -1,6 +1,6 @@
 project_0:
-  url: "/page1"
+  url: "/page1/home"
   description: "Environment Set Up"
 project_1:
-  url: "/page2"
+  url: "/page2/home"
   description: "Custom Home Page Route"
