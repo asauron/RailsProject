@@ -1,6 +1,7 @@
 Abinaya::Application.routes.draw do
   get "page2/home" , to: 'page2#home'
   get "page1/home" , to: 'page1#home'
+  get "page3/home" , to: 'page3#home'
   
   root to: "page1#home"
   # The priority is based upon order of creation: first created -> highest priority.
